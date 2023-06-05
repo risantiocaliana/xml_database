@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <nik>5315066304040005</nik>
+    <nama>RISANTI OCALIANA IVA</nama>
+    <tempat_lahir>LANDO,KEC. MACANG PACAR KAB. MANGGARAI BARAT</tempat_lahir>
+    <tanggal_lahir>2004-04-23</tanggal_lahir>
+    <jekel>PEREMPUAN</jekel>
+    <alamat>LEKATURI TERANG, KEC. BOLENG, KAB. MANGGARAI BARAT</alamat>
+    <agama>KHATOLIK</agama>
+    <status_perkawinan>PELAJAR</status_perkawinan>
+    <pekerjaan>MAHASISWA</pekerjaan>
+    <kewarganegaraan>WNI</kewarganegaraan>
+    <status_berlaku>SEUMUR HIDUP</status_berlaku>
+  </user>
+  <user>
+    <nik>53150663040400012</nik>
+    <nama>karlin</nama>
+    <tempat_lahir>pogo, kec. welak, kab. mabar</tempat_lahir>
+    <tanggal_lahir>2004-08-23</tanggal_lahir>
+    <jekel>PEREMPUAN</jekel>
+    <alamat>welak</alamat>
+    <agama>KHATOLIK</agama>
+    <status_perkawinan>PELAJAR</status_perkawinan>
+    <pekerjaan>MAHASISWA</pekerjaan>
+    <kewarganegaraan>WNI</kewarganegaraan>
+    <status_berlaku>SEUMUR HIDUP</status_berlaku>
+  </user>
+</users>
